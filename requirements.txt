@@ -1,3 +1,4 @@
+python==3.9.6
 anyio==3.4.0
 asgiref==3.4.1
 beautifulsoup4==4.10.0
